@@ -1,0 +1,12 @@
+Dados do aluno
+
+-Primeiro Nome: Silvio
+-Profissão:Tecnico Trainee
+-Cidade:Taubaté SP
+-O que faz nas horas vaga:Estudo, cinemas e esportes
+-Feedback sobre o curso Qualidade de Software:Excelente curso de muito aprendizado!
+-Feedback sobre a plataforma de estudo da EBAC:A plataforma muito boa e de facil aprendizado.
+
+Obrigado!!!
+
+
